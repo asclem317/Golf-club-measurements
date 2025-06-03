@@ -1,5 +1,4 @@
-Measurement 18
+Measurement 20
 Golf club: Wedge 50 degrees
 Angle measurement 50 degrees
-frame rate back  to normal
-chirp rate back to normal
+receiver gain changed  to 28 dB
